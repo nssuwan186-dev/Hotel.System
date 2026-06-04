@@ -1,0 +1,6 @@
+{
+  "name": "Wipat Hotel",
+  "description": "Premium hotel reservation management and guest billing system with Gemini-powered smart booking parser and Room database persistence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
